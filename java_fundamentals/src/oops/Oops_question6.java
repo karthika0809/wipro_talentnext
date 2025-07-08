@@ -47,4 +47,5 @@ public class Oops_question6 {
         apple.eat();
         orange.eat();
     }
+    
 }
