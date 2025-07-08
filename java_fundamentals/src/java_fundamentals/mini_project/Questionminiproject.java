@@ -1,4 +1,4 @@
-package java_fundamentals;
+package java_fundamentals.mini_project;
 public class Questionminiproject {
     static class Employee {
         int empNo;
@@ -19,7 +19,7 @@ public class Questionminiproject {
             this.it = it;
         }
     }
-
++
     public static void main(String[] args) {
         if (args.length != 1) {
             System.out.println("Please provide an employee ID as a command-line argument.");
