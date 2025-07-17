@@ -1,7 +1,7 @@
 package wrapperclasses;
 import java.util.*;
 
-class Employee implements Cloneable{
+class  Employee implements Cloneable{
 	String name;
 	int id;
 	String email;
